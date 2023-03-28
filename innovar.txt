@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="estilos.css" />
+    <title>Innovar</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap"
+      rel="stylesheet" />
+      <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+  </head>
+  <body>
+    <nav id="menu">
+      <a href="#1">Techos</a>
+      <a href="#2">Muros</a>
+      <a href="#3">Piletas</a>
+      <a href="#4">Galería</a>
+      <a href="#5">Info</a>
+      <span class="indicador" id="indicador"></span>
+    </nav>
+    <div class="headermas">
+      <div class="hero" id="hero">
+        
+       
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+    
+    
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+    
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+    
+    
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+    
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+    
+         
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+    
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+    
+         
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+    
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          
+         
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+          <div class="bbb"></div>
+          <div class="aaa"></div>
+    
+       
+      
+      </div><!-- hero -->
+<div class="toodo">
+          <h3>CONSTRUCCIONES</h3>
+          <div>
+            <h1>INN</h1>
+            <h1 class="aro">OVAR</h1>
+          </div>
+        </div>
+    </div><!-- headermas -->
+    
+    
+
+    <div class="secciones"> <!-- secciones -->
+      <div class="seccion" id="1">
+        <div class="card">
+          <h1 class="detalles">Construimos tu casa desde los cimientos hasta las terminaciones </h1>
+          <h1>Techo de perfiles y cabriadas metálicas</h1>
+          <div class="imagenes">
+            <img id="show01" src="img/pic01.jpeg" alt="">
+            <img id="show02" src="img/pic02.jpeg" alt="">
+            <img id="show03" src="img/pic03.jpeg" alt="">
+            <img id="show04" src="img/pic04.jpeg" alt="">
+            <img id="show05" src="img/pic05.jpeg" alt="">
+            <img id="show06" src="img/pic06.jpeg" alt="">
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+          <h1>Colocación de techo palos macisos de pino</h1>
+          <div class="imagenes">
+            <img id="show07" src="img/pic07.jpeg" alt="">
+            <img id="show08" src="img/pic08.jpeg" alt="">
+            <img id="show09" src="img/pic09.jpeg" alt="">
+       
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+
+              <h1>Colocación cielorraso suspendido</h1>
+          <div class="imagenes">
+            <img id="show37" src="img/pic37.jpeg" alt="">
+            <img id="show38" src="img/pic38.jpeg" alt="">
+            <img id="show39" src="img/pic39.jpeg" alt="">
+       
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+        </div>
+      </div>
+
+      <div class="seccion" id="2">
+        <div class="card">
+          <h1>Mampostería</h1>
+          <div class="imagenes">
+            <img id="show10" src="img/pic10.jpeg" alt="">
+            <img id="show11" src="img/pic11.jpeg" alt="">
+            <img id="show12" src="img/pic12.jpeg" alt="">
+       
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+          <h1>Deck y ladrillo visto</h1>
+          <div class="imagenes">
+            <img id="show13" src="img/pic13.jpeg" alt="">
+            <img id="show14" src="img/pic14.jpeg" alt="">
+            <img id="show15" src="img/pic15.jpeg" alt="">
+            <img id="show16" src="img/pic16.jpeg" alt="">
+            <img id="show17" src="img/pic17.jpeg" alt="">
+            
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+          <h1>Llenado de vigas ... deptos</h1>
+          <div class="imagenes">
+            <img id="show18" src="img/pic18.jpeg" alt="">
+            <img id="show19" src="img/pic19.jpeg" alt="">
+            <img id="show20" src="img/pic20.jpeg" alt="">
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+
+          <h1>Bloques</h1>
+          <div class="imagenes">
+            <img id="show35" src="img/pic35.jpeg" alt="">
+            <img id="show36" src="img/pic36.jpeg" alt="">
+           
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+          <h1>Armado de hierro</h1>
+          <div class="imagenes">
+            <img id="show29" src="img/pic29.jpeg" alt="">
+            <img id="show30" src="img/pic30.jpeg" alt="">
+            <img id="show31" src="img/pic31.jpeg" alt="">
+            <img id="show32" src="img/pic32.jpeg" alt="">
+            <img id="show33" src="img/pic33.jpeg" alt="">
+            <img id="show34" src="img/pic34.jpeg" alt="">
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+        </div>
+      </div>
+
+      <div class="seccion" id="3">
+        <div class="card">
+          <h1>Piletas</h1>
+          <div class="imagenes">
+            <img id="show24" src="img/pic24.jpeg" alt="">
+            <img id="show25" src="img/pic25.jpeg" alt="">
+            <img id="show26" src="img/pic26.jpeg" alt="">
+            <img id="show27" src="img/pic27.jpeg" alt="">
+            <img id="show28" src="img/pic28.jpeg" alt="">
+            
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+        </div>
+      </div>
+
+      <div class="seccion" id="4">
+        <div class="card">
+         
+          <h1>Galería</h1>
+          <div class="imagenes">
+            <img id="show21" src="img/pic21.jpeg" alt="">
+            <img id="show22" src="img/pic22.jpeg" alt="">
+            <img id="show23" src="img/pic23.jpeg" alt="">
+            <img id="show40" src="img/pic40.jpeg" alt="">
+            <img id="show41" src="img/pic41.jpeg" alt="">
+            <img id="show42" src="img/pic42.jpeg" alt="">
+            <img id="show43" src="img/pic43.jpeg" alt="">
+            <img id="show44" src="img/pic44.jpeg" alt="">
+            
+            
+            <div id="z" class="z">
+              <span class="close">cerrar</span>
+              <div id="caption"></div>
+               <img class="modal" src="" alt="" id="myImg">
+               <div id="caption"></div>
+                  </div> 
+          </div><!-- imagenes -->
+          <h1 class="detalles02">Seguimos sumando beneficios para nuestros clientes, ahora pueden abonar los trabajos realizados por INNOVAR en efectivo a traves de su tarjeta de debito o credito.</h1>
+        </div>
+      </div>
+
+      <div class="seccion" id="5">
+        <div class="headermas">
+          <div class="hero02" id="hero">
+            
+           
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+        
+        
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+        
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+        
+        
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+        
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+        
+             
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+        
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+        
+             
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+        
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              
+             
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+              <div class="bbb"></div>
+              <div class="aaa"></div>
+        
+           
+          
+          </div><!-- hero -->
+         <div class="card card02">
+          <h1>Info</h1>
+            <h2>Para mas información encuéntranos en:</h2>
+          <div class="bloque__info">
+           
+            <a class="musho" href="https://api.whatsapp.com/send?phone=542604062652&"target="_blank">
+            <box-icon type='logo' name='whatsapp' class="logowhat" color="white"></box-icon>
+            <div class="texto__info">2604062652</div>
+          </a>
+          <a class="musho"  href="https://api.whatsapp.com/send?phone=542604239953&"
+          target="_blank">
+            <box-icon type='logo' name='whatsapp' class="logowhat" color="white"></box-icon>
+            <div class="texto__info">2604239953</div>
+          </a>
+
+          <a class="musho face "  href="https://www.facebook.com/people/Innovar/100070420957561/" target="_blank">
+            <div class="logo"><box-icon type='logo' name='facebook-square' class="logoface" color="#3b5998"></box-icon></div>
+            <div class="texto__info">INNOVAR</div>
+          </a>
+          <a class="musho face "  href="https://www.instagram.com/innovar_servicios/" target="_blank">
+            <div class="logo"> <box-icon type='logo' name='instagram' class="logoins" color="white"></box-icon></div>
+            <div class="texto__info">INNOVAR</div>
+          </a>
+        
+          </div>
+          <p >Gracias a nuestros clientes por confiar en  INNOVAR</p>
+           
+             
+            </div><!-- card -->
+            <footer>   <h3>designed by</h3><a
+              href="https://api.whatsapp.com/send?phone=542613895385&"
+             
+              target="_blank">
+            
+           77iu
+          </a></footer>
+        </div><!-- headermas -->
+       
+      </div><!-- seccion -->
+     
+    </div>
+   
+   
+
+    <script src="app.js"></script>
+  </body>
+</html>
+
+
+html {
+	scroll-behavior: smooth;
+}
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background: #f2f2f2;
+	font-family: 'Roboto', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+.hero {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: repeat(5 1fr);
+	height: calc(100vh - 80px);
+	gap: 3px;
+	z-index: 0;
+}
+.hero02 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: repeat(5 1fr);
+	height: calc(100vh - 80px);
+	gap: 3px;
+	z-index: 0;
+}
+.headermas{
+	position: relative;
+	display: grid;
+}
+.hero,
+.toodo{
+	grid-column: -2/-1;
+	grid-row: 1/2;
+	justify-content: center;
+	align-items: center;
+}
+.hero02,
+.card02{
+	grid-column: -2/-1;
+	grid-row: 1/2;
+	justify-content: center;
+	align-items: center;
+}
+.aaa{
+	width: 100%;
+	height: 100%;	
+	animation: aaa 4s linear alternate infinite ;
+	}
+	@keyframes aaa{
+		0%{background-color: transparent;}
+		100%{background-color: rgba(31, 150, 229, 0.3);}
+	}
+	.bbb{
+	
+	width: 100%;
+	height: 100%;
+	animation: bbb 4s 2s linear alternate infinite ;
+	}
+	@keyframes bbb{
+		0%{background-color: transparent;}
+		100%{background-color: rgba(31, 150, 229, 0.3);}
+	}
+
+
+.toodo h1 {
+	font-size: 80px;
+	font-family: 'Ubuntu', sans-serif;
+	/* filter: drop-shadow(0 0 0.2rem white); */
+}
+h2{
+	/* margin-bottom: 25px; */
+	font-weight: 200;
+	/* margin: 10px auto; */
+	
+}
+h3{
+	text-align: left;
+	/* filter: drop-shadow(0 0 0.2rem white); */
+}
+.toodo div{
+	display: flex;
+}
+.aro{
+	color: #113CFC;
+}
+.hero p {
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #113CFC;
+}
+.toodo{
+	display: flex;
+	flex-direction: column;
+
+	
+}
+nav {
+	background: #fff;
+	height: 80px;
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	display: flex;/*PARA ACOMODAR LOS ENLACES*/
+	position: sticky;
+	top: 0;/*LO DEJA PEGADO EN LA COORDENADA 0*/
+	overflow: hidden;
+	z-index: 100;
+}
+nav a {
+	flex: 1;/*PARA QUE TODOS LOS ELEMENTOS TENGAN EL MISMO ANCHO*/
+	height: 100%;
+	text-transform: uppercase;/*CAMBIA A MAYUSCULA*/
+	display: flex;/*SE LE DA PARA CENTRAR EL ELEMENTO INTERNO*/
+	align-items: center;
+	justify-content: center;
+	text-align: center;/*PARA CENTRAR LOS TEXTOS SI SE ACHICARA Y QUEDARA UNA PARTE DEL TEXTO ARRIBA Y OTRA ABAJO*/
+	color: #000;
+	transition: .2s ease-in-out all;
+	font-weight: 500;
+}
+nav a:hover {
+	background: #f0f0f0;
+}
+nav .indicador {
+	width: 0px;
+	height:10px;
+	/* background: yellowgreen; */
+	position: absolute;
+	bottom: 0;
+	transition: .3s ease-out all;
+	animation: light 500ms linear alternate infinite;
+	border-radius: 3px;
+	filter: brightness(200%);
+	filter: saturate(10000000000%);
+}
+@keyframes light{
+	0%{background: transparent;}
+	100%{background: red;}
+}
+
+
+.seccion {
+	min-height: 100vh;
+	width: 100%;
+	margin: auto;
+	padding-top: 120px;
+}
+
+
+.seccion .card {
+	background: #fff;
+	height: 90%;
+	
+	padding: 10px;
+	padding-top: 20px;
+	border-radius: 5px;
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+	width: 100%;
+	text-align: center;
+}
+.info{
+	
+	display: flex;
+	align-items: center;
+	gap: 5px;
+
+}
+.info a{
+	display: flex;
+	justify-content: space-between;
+	gap: 10px;
+	margin: 5px;
+	color: black;
+	text-decoration: none;
+	animation: info__a 2s linear alternate infinite;
+	
+}
+@keyframes info__a{
+	0%{transform: scale(1);
+	transform: translate(0);}
+	100%{transform: scale(1);
+	transform: translateX(10px);}
+}
+.info__todos{
+	width: auto;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+}
+
+
+
+
+.seccion h1 {
+	padding-left: 5%;
+	font-size: 30px;
+	margin-top: 20px;
+	color: #222;
+	font-weight: 400;
+}
+
+.seccion p {
+	
+	margin: 20px;
+	border-radius: 10px;
+	padding: 10px 0;
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	background-color: white;
+	z-index: 100;
+	filter: drop-shadow(0 0 0.5rem black);
+	animation: end 2s linear alternate infinite;
+}
+@keyframes end{
+	0%{transform: scale(1);}
+	100%{transform: scale(1.01);}
+}
+
+.seccion img {
+	width: 100%;
+	aspect-ratio: 1/1;
+	vertical-align: top;
+	margin-bottom: 20px;
+}
+.imagenes{
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	margin-bottom: 5px;
+	justify-items: center;
+	align-items: center;
+}
+.whatt{
+	transform: scale(0.5);
+}
+.secciones .detalles{
+	width: 90%;
+	margin: auto;
+	font-weight: 600;
+	letter-spacing: 2px;
+	background-color: cornflowerblue;
+	padding: 40px;
+	color: white;
+	filter: drop-shadow(0 0 0.7rem black);
+	border-radius: 10px;
+	text-align: center;
+	animation:bloque__info 0.5s linear alternate infinite ;
+}
+
+.secciones .detalles02{
+	margin: auto;
+	width: 90%;
+	font-weight: 600;
+	letter-spacing: 2px;
+background: linear-gradient(45deg,  rgb(188, 192, 196), black);
+	padding: 40px;
+	color: white;
+	filter: drop-shadow(0 0 0.7rem black);
+	border-radius: 10px;
+	text-align: center;
+	animation:bloque__info 0.5s linear alternate infinite ;
+}
+footer{
+	width: 100%;
+	background-color: #222;
+	height: 50px;
+	/* display: grid;
+	place-items: center; */
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+}
+footer a{
+	color: white;
+	padding: 5px 20px;
+	text-decoration: none;
+	cursor: pointer;
+	background-color: lightseagreen;
+	border-radius:50%;
+	border: 1px solid rgba(255, 255, 255, 0.447);
+	animation: footer__a 2s linear alternate infinite;
+}
+footer h3{
+	color: white;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+@keyframes footer__a{
+	0%{background-color: lightseagreen;}
+	100%{background-color: black;}
+}
+
+
+
+@media screen and (max-width: 800px) {
+	nav a {
+		font-size: 14px;
+		padding: 5px;
+	}
+	.card h1{
+		font-size: 40px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.toodo h1{
+		font-size: 55px;
+	}
+	nav a {
+		font-size: 12px;
+	}
+	.card h1{
+		font-size: 20px;
+	}
+	h2{
+		font-size: 15px;
+	
+	}
+	
+	
+	.imagenes{
+		width: 100%;
+		display: grid;
+		grid-template-columns: 1fr 1fr ;
+		margin-bottom: 5px;
+		justify-items: center;
+		align-items: center;
+	}
+	.info a{
+		margin: 10px;
+	}
+}
+.logowhat{
+	background-color: #25d366;
+	/* transform: scale(1.5); */
+	border-radius: 50%;
+	width: 100%;
+	height: 100%;
+	border: 3px solid white;
+
+	
+	
+}
+.logoface{
+	width: 100%;
+	height: 100%;
+	
+}
+.logoins{
+	width: 80%;
+	height: 80%;
+
+	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+	border-radius: 5px;
+}
+
+img{
+	width: 100%;
+	cursor: pointer;
+	padding: 5px;
+	border-radius: 10px;
+	transition: 0.3s;
+  }
+ 
+  
+  .z {
+	display: none; /* oculto por defecto */
+	position: fixed; /* permanece en lugar */
+	z-index: 1; /* un nivel z arriba */
+	padding-top: 50px; /* ubicacion de la caja */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height:100%; /* Full height */
+	overflow: auto; /* escrolear si es necesario */
+   
+	background-color:rgba(0,0,0,0.8); 
+  }
+  .modal{
+	margin: auto;
+	display: block;
+	width: 100%;
+	max-width: 1100px;
+	border-radius: 10px;
+  }
+  #caption {
+	background-color:rgba(0,0,0,0.0); 
+	margin-left: 40%;
+	margin-top: 5px;
+	display: inline-block;
+	text-align: center;
+	color: white;
+	padding: 20px 5px;
+	font-weight: bolder;
+  }
+  .modal, #caption {  
+	-webkit-animation-name: zoom;
+	-webkit-animation-duration: 0.6s;
+	animation-name: zoom;
+	animation-duration: 0.6s;
+  }
+  
+  @-webkit-keyframes zoom {
+	from {-webkit-transform:scale(0)} 
+	to {-webkit-transform:scale(1)}
+  }
+  
+  @keyframes zoom {
+	from {transform:scale(0)} 
+	to {transform:scale(1)}
+  }
+  
+  /* 100% Image Width on Smaller Screens */
+  @media only screen and (max-width: 700px){
+	.modal-content {
+	  width: 100%;
+	}
+  }
+  
+  .bloque__info{
+	margin: 20px auto;
+	/* background-color: #25d366; */
+	min-height: 50px;
+	z-index: 0;
+display: inline-flex;
+flex-direction: column;
+gap: 5px;
+animation:bloque__info 0.5s linear alternate infinite ;
+  }
+  @keyframes bloque__info{
+	0%{filter: drop-shadow(0 0 0.1rem black);}
+	100%{filter: drop-shadow(0 0 0.2rem black);}
+  }
+  .musho{
+	margin: 5px 0;
+	height: 30px;
+	display: inline-flex;
+box-sizing: content-box;
+background-color: white;
+z-index: 0;
+align-items: center;
+border-radius: 25px;
+animation: musho 2s linear alternate infinite;
+  }
+  @keyframes musho{
+	0%{transform: scale(1);}
+	100%{transform: scale(1);}
+  }
+  .face{border-radius: 5px 25px 25px 5px;}
+  .logo{
+	width: 30px;
+	height: 30px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+  }
+  .texto__info{
+	height: 30px;
+	display: flex;
+	align-items: center;
+	color: black;
+	margin: 5px;
+  }
